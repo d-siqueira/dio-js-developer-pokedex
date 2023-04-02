@@ -127,6 +127,11 @@
     height: 70px;
 }
 
+.pokemon .stats {
+    list-style: none;
+    padding-left: 0;
+}
+
 .pagination {
     display: flex;
     flex-direction: row;

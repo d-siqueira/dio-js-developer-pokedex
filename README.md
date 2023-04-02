@@ -1,1 +1,2 @@
-# Trilha JS Developer - Pokedex
+# Desafio de Projeto - DIO
+## Trilha JS Developer - Pokedex
